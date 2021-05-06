@@ -1,22 +1,22 @@
-# Geometria-Espacial
+<h2> Geometria Espacial </h2>
 
-<h3> Apenas um simples projeto de um programa cálculo da Geometria espacial usando o C++ criado por um estudante do Ensino Médio :P
+<p> Apenas um simples projeto de um programa cálculo da Geometria espacial usando o C++ criado por um estudante do Ensino Médio. </p>
 
-<h4> Como estou no ensino médio (e atualmente em quarentena), aproveitei as infinitas possibilidades que as linguagens de programação nos oferecem, e também aproveitei o tempo livre para criar um programa com alguma matéria que ja estudei nos anos anteriores.
+<p> Como estou no ensino médio (e atualmente em quarentena), aproveitei as infinitas possibilidades que as linguagens de programação nos oferecem, e também aproveitei o tempo livre para criar um programa com alguma matéria que ja estudei nos anos anteriores. </p>
   
-<h4> Após algumas pesquisas notei que seria desafiador e interessante criar um programa que agilizasse nosso trabalho durante os cálculos. E para isso resolvi desenvolver um programa que contém um Menu para escolha, e cálculos de várias formas geométricas.
+<p> Após algumas pesquisas notei que seria desafiador e interessante criar um programa que agilizasse nosso trabalho durante os cálculos. E para isso resolvi desenvolver um programa que contém um Menu para escolha, e cálculos de várias formas geométricas. </p>
   
-<h4> Após chegar a conclusão de criar um programa de Geometria Espacial, dei inicio a parte de pesquisas de fórmulas, programação e testes, e consegui finalizar o projeto em 2 dias.
+<p> Após chegar a conclusão de criar um programa de Geometria Espacial, dei inicio a parte de pesquisas de fórmulas, programação e testes, e consegui finalizar o projeto em 2 dias. </p>
   
-# O Programa está pronto?
+<h2> O Programa está pronto? </h2>
 
-<h3> Como toda aplicação, esse programa ainda não está pronto. E nem sei se algum dia estará, pois a evolução e atualização dos programas é constante.
+<p> Como toda aplicação, esse programa ainda não está pronto. E nem sei se algum dia estará, pois a evolução e atualização dos programas é constante. </p>
   
-<h4> A ideia inicial é de ao longo do tempo ir atualizando o programa, deixando-o mais dinâmico, atualizando algum bug e adicionando alguma outra forma geométrica para cálculo.
+<p> A ideia inicial é de ao longo do tempo ir atualizando o programa, deixando-o mais dinâmico, atualizando algum bug e adicionando alguma outra forma geométrica para cálculo. </p>
   
-# Considerações Finais
+<h2> Considerações Finais </h2>
 
-<h3> Espero ter feito tudo certo.
+<p> Espero ter feito tudo certo. </p>
   
-<h4> Esse é meu primeiro commit aqui no Github, ainda estou aprendendo a utilizá-lo então qualquer ajuda é bem-vinda. Desde já agradeço.
+<p> Esse é meu primeiro commit aqui no Github, ainda estou aprendendo a utilizá-lo então qualquer ajuda é bem-vinda. Desde já agradeço. </p>
   
